@@ -1,15 +1,12 @@
 ### Hi there 👋
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 74.59 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 74.73 %
 ---
-⏰ Updated on Thu, 30 Sep 2021 06:02:28 GMT
-
+⏰ Updated on Thu, 30 Sep 2021 18:02:00 GMT
 ![Progress Bar CI](https://github.com/song-zian/song-zian/workflows/Progress%20Bar%20CI/badge.svg)
 
 ### My GitHub Contributions
-
 ![](https://raw.githubusercontent.com/song-zian/song-zian/main/assets/github-contribution-grid-snake.svg)
-    
+ 
 ![song-zian's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-zian&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song-zian&layout=compact)
-
 ⭐️ From [song-zian](https://github.com/song-zian)
