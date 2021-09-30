@@ -18,8 +18,7 @@ const readme = `\
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}
-
-![Progress Bar CI](https://github.com/song-zian/song-zian/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
 ### My GitHub Contributions
 
@@ -27,7 +26,7 @@ const readme = `\
     
 ![song-zian's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-zian&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song-zian&layout=compact)
-
-⭐️ From [song-zian](https://github.com/song-zian)
+⭐️ From [song-zian](https://github.com/song-zian)\
+`
 
 console.log(readme)
