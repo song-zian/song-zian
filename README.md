@@ -1,7 +1,7 @@
 ### Hi there 👋
-⏳ Year progress { █████████████████████████████▁ } 99.93 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.01 %
 ---
-⏰ Updated on Wed, 31 Dec 2025 18:13:31 GMT
+⏰ Updated on Thu, 01 Jan 2026 00:53:17 GMT
 ![Progress Bar CI](https://github.com/song-zian/song-zian/workflows/Progress%20Bar%20CI/badge.svg)
 
 ### My GitHub Contributions
